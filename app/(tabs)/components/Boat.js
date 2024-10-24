@@ -13,4 +13,5 @@ function Boat ({ name, description, icon_name, poster }) {
     );
 }
 
+
 export default Boat;
